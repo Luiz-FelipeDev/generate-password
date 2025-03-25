@@ -4,10 +4,26 @@ Este projeto contém implementações de um gerador de senhas aleatórias em **G
 
 ## :pushpin: Funcionalidades
 
-Geração de senhas aleatórias com comprimento especificado.
+* Geração de senhas aleatórias com comprimento especificado.
 
-Inclusão obrigatória de pelo menos uma letra maiúscula e um número.
+* Inclusão obrigatória de pelo menos uma letra maiúscula e um número.
 
-Suporte a caracteres especiais para maior segurança.
+* Suporte a caracteres especiais para maior segurança.
 
-Embaralhamento da senha para maior aleatoriedade.
+* Embaralhamento da senha para maior aleatoriedade.
+
+
+## :hammer_and_wrench: Como executar
+
+Certifique-se de ter o Go instalado.
+
+Salve o código em um arquivo main.go.
+
+No terminal, execute:
+```shell
+go run main.go
+```
+Ou em Python
+```
+python main.py
+```
